@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Modern Mathematical Packages' Labs using Jupyter Notebook in GoogleColab
+🌱 I’m currently learning Math, Physics/Mechanics
+
 <!--
 **a2a-lovelace/a2a-lovelace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

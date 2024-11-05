@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on OOP project in PHP
+
 😄 Finished work on Modern Mathematical Packages' Labs using Jupyter Notebook in GoogleColab
 
 🌱 I’m currently learning Math, Physics/Mechanics and OOP in PHP

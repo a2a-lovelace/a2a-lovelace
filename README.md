@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Привет! 👋
 
 🔭 I’m currently working on OOP project in PHP
 

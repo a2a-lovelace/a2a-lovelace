@@ -1,7 +1,5 @@
 ## Hi there, Привет! 🤗
 
-I'm Marina, student, Math and Computer Science
-
 <!--
 **a2a-lovelace/a2a-lovelace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
